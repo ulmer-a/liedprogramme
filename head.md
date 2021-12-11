@@ -4,4 +4,3 @@ Das ist eine Sammlung von Liedprogrammen von Pfarrer Stefan Amann, der zuletzt d
 priesterlichen Dienste in der Pfarre Thüringen St. Stephan (Vorarlberg) innehatte.
 
 ![orgel st.stephan](./orgel.jpg)
-

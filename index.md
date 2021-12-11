@@ -4,7 +4,6 @@ Das ist eine Sammlung von Liedprogrammen von Pfarrer Stefan Amann, der zuletzt d
 priesterlichen Dienste in der Pfarre Thüringen St. Stephan (Vorarlberg) innehatte.
 
 ![orgel st.stephan](./orgel.jpg)
-
 ## Sonntage im Advent
 - [1.] Adventsonntag: 
   - [A (2016-11-27)](www/A01A_2016-11-27.pdf)
@@ -261,4 +260,4 @@ priesterlichen Dienste in der Pfarre Thüringen St. Stephan (Vorarlberg) innehat
   - [A (2017-11-26)](www/J34A_2017-11-26.pdf)
 
 
-Dem höchsten Gott allein zu Ehren. Letze Aktualisierung: Sat 11 Dec 2021 11:43:36 AM CET
+Dem höchsten Gott allein zu Ehren. Letze Aktualisierung: Sat 11 Dec 2021 11:53:18 AM CET
