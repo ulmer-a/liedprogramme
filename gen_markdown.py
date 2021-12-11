@@ -12,8 +12,8 @@ def node(text):
 def subnode(text):
     print("%s" % (text))
 
-basepath = "files"
-html_basepath = "www/"
+basepath = "www/files"
+html_basepath = "files/"
 
 f = []
 for (dirpath, dirnames, filenames) in walk(basepath):
